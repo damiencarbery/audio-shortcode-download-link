@@ -2,7 +2,7 @@
 /*
 Plugin Name: Audio Shortcode Testing
 Plugin URI: http://www.damiencarbery.com
-GitHub Plugin URI: https://github.com/afragen/github-updater
+GitHub Plugin URI: https://github.com/damiencarbery/audio-shortcode-download-link
 Description: Add a Download link to the html generated for the "audio" shortcode.
 Author: Damien Carbery
 Version: 0.1
